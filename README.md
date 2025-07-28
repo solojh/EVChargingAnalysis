@@ -31,9 +31,9 @@ This project provides data analysis and interactive visualization of electric ve
 ## 🌍 How to View the Maps
 
 1. Click to open:
-   - [View EV map1.html](https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map1.html)
+   - https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map1.html
 
-   - [View EV map1.html](https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map2.html)
+   - https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map2.html
 
 
 > If the maps don't load directly on GitHub, right-click and choose **Save Link As...**, then open locally in your browser.
