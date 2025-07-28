@@ -39,9 +39,3 @@ This project provides data analysis and interactive visualization of electric ve
 > If the maps don't load directly on GitHub, right-click and choose **Save Link As...**, then open locally in your browser.
 
 ---
-
-## 🔄 To Regenerate the Maps
-
-Run the `EVChargingAnalysis.ipynb` notebook locally using Jupyter Notebook:
-
-1. Make sure required libraries are installed:
