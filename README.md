@@ -5,10 +5,17 @@ This project contains data analysis and visualization of electric vehicle chargi
 ## File Description
 
 - **EV map1.html**  
-  Visualization Map 1 showing the distribution of EV charging stations.
+  Visualization Map 1 showing the locations of electric vehicle (EV) charging stations, grouped by company.
 
 - **EV map2.html**  
-  Visualization Map 2 showing the distribution by charging power or category.
+  Visualization Map 2 showing the distribution by charging power.
+Fast vs Slow Charging Classification
+-Stations with Rated Output Power ≥ 22 kW are classified as Fast (green markers).
+-Stations with Rated Output Power < 22 kW are classified as Slow (blue markers).
+
+Marker Clustering
+-All charging stations are grouped using a Marker Cluster plugin.
+-When zoomed out, nearby stations are grouped together; zooming in splits them into individual points.
 
 - **EVChargingAnalysis.ipynb**  
   Jupyter Notebook file containing the data analysis.
