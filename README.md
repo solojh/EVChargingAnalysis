@@ -33,7 +33,7 @@ This project provides data analysis and interactive visualization of electric ve
 1. Click to open in new browser 
    - [https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map1.html](https://solojh.github.io/EVChargingAnalysis/EV%20map1.html)
 
-   - [https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map2.html](https://solojh.github.io/EVChargingAnalysis/EV%20map1.htm2)
+   - [[https://github.com/solojh/EVChargingAnalysis/blob/main/EV%20map2.html](https://solojh.github.io/EVChargingAnalysis/EV%20map1.htm2)
 
 
 > If the maps don't load directly on GitHub, right-click and choose **Save Link As...**, then open locally in your browser.
