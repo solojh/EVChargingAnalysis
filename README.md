@@ -1,4 +1,4 @@
-# ⚡ EV Charging Points Analysis
+# ⚡SG EV Charging Points Analysis
 
 This project provides data analysis and interactive visualization of electric vehicle (EV) charging points using Python, Pandas, and Folium.
 
